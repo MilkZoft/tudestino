@@ -1,0 +1,29 @@
+#pages h2 {
+	font-size: 1.5em;
+	margin: 0;
+}
+
+#pages {
+	color: #000000;
+	text-align: justify !important;
+	/*
+	width: 98%;
+	margin: 0 auto;
+	*/
+}
+	
+#pages a {
+	text-decoration: none;
+	color: #333333;
+	background-color: transparent;
+}
+
+#pages a:hover {
+	text-decoration: none;
+	color: #0066FF;	
+	background-color: transparent;
+}
+
+.actions {
+	float: right;
+}
